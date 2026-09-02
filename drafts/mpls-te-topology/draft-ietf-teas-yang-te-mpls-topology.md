@@ -304,7 +304,7 @@ Note: TE bandwidth augmentations for paths, LSPs, and links are provided by the 
    The lowest NETCONF layer is the secure transport layer, and the
    mandatory-to-implement secure transport is Secure Shell (SSH)
    {{!RFC6242}}. The lowest RESTCONF layer is HTTPS, and the mandatory-
-   to-implement secure transport is TLS {{!RFC8446}}.
+   to-implement secure transport is TLS {{!RFC9846}}.
 
    The NETCONF access control model {{!RFC8341}} provides the means to
    restrict access for particular NETCONF users to a preconfigured
